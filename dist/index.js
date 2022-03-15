@@ -1,2 +1,2 @@
-import RmSelect from "./TextInput";
+import RmSelect from "./RmSelect";
 export { RmSelect };

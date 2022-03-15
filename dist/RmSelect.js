@@ -29,4 +29,4 @@ function RmSelect(props) {
   })));
 }
 
-export { RmSelect };
+export default RmSelect;
