@@ -1,2 +1,2 @@
-import RmSelect from "./RmSelect";
+import { RmSelect } from "./RmSelect";
 export { RmSelect };
