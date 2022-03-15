@@ -1,2 +1,3 @@
 import RmSelect from "./RmSelect";
-export { RmSelect };
+import { rmSet, rmSelectReducer } from "./rmReducer";
+export { RmSelect, rmSet, rmSelectReducer };
