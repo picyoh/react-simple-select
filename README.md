@@ -1,5 +1,7 @@
 # React-simple-select
 
+[r-simple-select](https://www.npmjs.com/package/r-simple-select)
+
 A simple and reusable Select component for React
 
 ###### *This component is created by create-component-lib*
