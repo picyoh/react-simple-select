@@ -1,2 +1,2 @@
-import RsSelect from "./RsSelect";
+import { RsSelect } from "./RsSelect";
 export { RsSelect };
