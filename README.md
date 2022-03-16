@@ -2,6 +2,8 @@
 
 A simple and reusable Select component for React
 
+###### *This component is created by create-component-lib*
+
 ## Installation
 
 The package can be installed via [npm](https://github.com/npm/cli):
@@ -47,4 +49,5 @@ The minimum use of the RsSelect:
 In this case the title will be set with the name parameter
 
 ## License
+
 Licensed under MIT license, see [LICENSE](LICENSE) for the full license.
