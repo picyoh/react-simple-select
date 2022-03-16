@@ -1,6 +1,6 @@
 import React from "react";
 
-function RmSelect(props) {
+function RsSelect(props) {
   const {
     name,
     options,
@@ -29,4 +29,4 @@ function RmSelect(props) {
   })));
 }
 
-export { RmSelect };
+export { RsSelect };

@@ -1,6 +1,6 @@
 import React from "react";
 
-function RmSelect(props) {
+function RsSelect(props) {
   const { name, options, title } = props;
   let label;
   if (title === undefined) {
@@ -28,4 +28,4 @@ function RmSelect(props) {
   );
 }
 
-export { RmSelect };
+export { RsSelect };
