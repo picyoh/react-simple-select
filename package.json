@@ -1,8 +1,8 @@
 {
-  "name": "pic-r-test",
-  "version": "0.0.6",
+  "name": "r-s-select",
+  "version": "0.0.1",
   "private": false,
-  "description": "r-test",
+  "description": "simple React select component",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
