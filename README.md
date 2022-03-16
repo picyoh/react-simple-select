@@ -47,5 +47,4 @@ The minimum use of the RsSelect:
 In this case the title will be set with the name parameter
 
 ## License
-
-Copyright (c) 2014-2021 HackerOne Inc. and individual contributors. Licensed under MIT license, see [LICENSE](LICENSE) for the full license.
+Licensed under MIT license, see [LICENSE](LICENSE) for the full license.
