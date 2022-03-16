@@ -9,13 +9,13 @@ A simple and reusable Select component for React
 The package can be installed via [npm](https://github.com/npm/cli):
 
 ```
-npm install rs-select --save
+npm install r-simple-select --save
 ```
 
 Or via [yarn](https://github.com/yarnpkg/yarn):
 
 ```
-yarn add rs-select
+yarn add r-simple-select
 ```
 
 ## Usage
